@@ -129,9 +129,9 @@ InsertAtHead(4);
 InsertAtHead(5);
 InsertAtHead(6);
 Traverse();
-Delete(2);
+Delete(3);
 Traverse();
-InsertAtAnyPosition(2, 10);
+InsertAtAnyPosition(3,20);
 Traverse();
 }
 
